@@ -108,15 +108,5 @@ python3 -m pytest tests/
 
 ---
 
-## 🎓 Academic Context
-
-This project was developed for coursework in:
-
-- Operating Systems  
-- Artificial Intelligence  
-- Autonomic Computing  
-
-The design emphasizes **adaptability**, **modularity**, and **safe system design**.
-
 ---
 
